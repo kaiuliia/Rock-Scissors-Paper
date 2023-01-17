@@ -1,4 +1,3 @@
-
 module.exports = {
   mode: "development",
   entry: "./code/main.js",
@@ -24,5 +23,3 @@ module.exports = {
     ],
   },
 };
-
-  
