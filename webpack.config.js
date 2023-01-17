@@ -1,7 +1,8 @@
 
 module.exports = {
-    entry: 'path/to/file.js',
   mode: "development",
+  entry: "./code/main.js",
+
   module: {
     rules: [
       {
